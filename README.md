@@ -11,6 +11,10 @@ js/main.js        animação de entrada do hero e revelação ao rolar
 images/           logo e fotos do cardápio
 ```
 
+## Importante
+
+Abra o `index.html` **dentro desta pasta**. Se copiar só o `index.html` para outro lugar, ele perde o `css/`, o `js/` e o `images/` e a página aparece sem estilo.
+
 ## Publicar no GitHub Pages
 
 1. Envie todos os arquivos para a raiz do repositório (o `index.html` precisa ficar na raiz).
